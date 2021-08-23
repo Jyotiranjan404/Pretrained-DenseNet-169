@@ -4,7 +4,7 @@ The DenseNet 169 model architectures for ImageNet,
 
 ![1_RUiMzddMbQ0rx_CCqT2k8Q](https://user-images.githubusercontent.com/84494071/130454804-3dcd7728-59cc-4ded-84c4-c6b2d3b72a88.png)
 
-#Referance:
+# Referance:
 https://arxiv.org/pdf/1608.06993.pdf
 
 # Data:
